@@ -7,4 +7,6 @@ Estudando:
 - Git
 - Python
 
+Aqui estao os codigos Node.Js desde inicio nesta plataforma.
+
 Projetos nas tecnologias.
