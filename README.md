@@ -1,2 +1,10 @@
-# Nodejs_Workover
-Projeto Node- Inicio dos Estudos!!
+# Workover - Plataforma de Estudo 
+
+Estudando:
+
+- Node.Js
+- Flutter
+- Git
+- Python
+
+Projetos nas tecnologias.
